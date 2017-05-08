@@ -1,6 +1,6 @@
 {
 	"description": "Restaurant manager",
-	"name": "codeigniter/framework",
+	"name": "codeigniter/restaurant",
 	"type": "project",
 	"homepage": "https://restaurante-yurimansani.c9users.io",
 	"license": "MIT",
